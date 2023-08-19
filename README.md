@@ -4,7 +4,7 @@
   <code>
 C:\Users\Iago> sobre_mim.exe
 
-Olá! Eu sou o Iago Alves, um entusiasta da programação nascido no Brasil e orgulhosamente mineiro de Minas Gerais.
+Olá! Eu sou o Iago Alves, um entusiasta da programação nascido no Brasil e orgulhosamente mineiro.
 Atualmente, estou me concentrando no aprendizado da linguagem C# e estou animado para expandir meu conhecimento para outras linguagens no futuro.
   </code>
   </pre>
